@@ -35,7 +35,7 @@ The AMPscript code block can be used in : an email, a landing page, then a scrip
 
 ### SIMPLE EXAMPLE
 
-```vbscript
+```java
 %%[
 set @url = "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX"
 /* "mrkdwn" parameter enables the slack markdown option */
@@ -61,7 +61,7 @@ You can insert mpre personalisation thanks to [AMPscript functions](https://deve
 
 
 
-### EXAMPLE WITH ATTACHED IMAGE
+### EXAMPLE WITH ATTACHED IMAGE
 
 ```java
 %%[
